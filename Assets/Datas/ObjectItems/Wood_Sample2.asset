@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e853d680864188408b979d529953319, type: 3}
+  m_Name: Wood_Sample2
+  m_EditorClassIdentifier: 
+  ItemType: 3
+  ItemPrefab: {fileID: 2658457077213911063, guid: 38df36435d7533b479f188b6845ad450,
+    type: 3}
+  RequireLevel: 3
+  Damage: 5
+  Exp: 5
+  Timer: 20
+  AcquireEffect: {fileID: 0}
+  AcquireEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  DestoryEvent:
+    m_PersistentCalls:
+      m_Calls: []

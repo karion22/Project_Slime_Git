@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5c06aa56c559e542b3c55a6ff97c9ac, type: 3}
+  m_Name: Area_Sample1
+  m_EditorClassIdentifier: 
+  TilePresets:
+  - {fileID: 11400000, guid: 3c0cb0e1c6d67844181a311b0a6fbc33, type: 2}
+  - {fileID: 11400000, guid: 6eb841a74ae32564888eba9bf8b65ebc, type: 2}
+  - {fileID: 11400000, guid: 3fcaf41530722a84da309ac612b889e0, type: 2}
+  TileRatios: 460000000f0000000f000000
+  Width: 32
+  Height: 32
+  ObjectPresets:
+  - {fileID: 11400000, guid: 3dd9c88d544dd044a91570576e2f944d, type: 2}
+  - {fileID: 11400000, guid: c27115a34aed4d242bda79a1a195417e, type: 2}
+  - {fileID: 11400000, guid: 10aff741514de4f4abff952857ae9dfb, type: 2}
